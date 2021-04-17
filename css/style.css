@@ -1,0 +1,8 @@
+.square {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    background-color: pink;
+    top: 0px;
+    left: 0px;
+}
