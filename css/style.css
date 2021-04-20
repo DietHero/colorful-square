@@ -5,4 +5,13 @@
     background-color: pink;
     top: 0px;
     left: 0px;
+    text-align: center;
+    color: white;
+
+}
+
+.div {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
 }
